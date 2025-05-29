@@ -1,6 +1,6 @@
 # 💻 Felipe Augusto
 
-Olá! Me chamo Felipe Augusto e sou estudante de Análise e Desenvolvimento de Sistemas. Sou movido por desafios e estou sempre em busca de aprender algo novo. Tenho focado meus estudos e projetos em áreas como desenvolvimento web (front-end e back-end), banco de dados e lógica de programação. A cada projeto, busco unir técnica com usabilidade, porque acredito que um sistema eficiente é aquele que facilita a vida de quem usa.
+Olá! Me chamo Felipe Augusto e sou estudante de Análise e Desenvolvimento de Sistemas. Sou movido por desafios e estou sempre em busca de aprender algo novo. Tenho focado meus estudos e projetos em áreas como desenvolvimento web (front-end e back-end), banco de dados e lógica de programação. A cada projeto, busco unir técnica com usabilidade.
 
 
 <p 
